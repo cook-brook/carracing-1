@@ -33,7 +33,7 @@ function add(){
 
 }
 function uploadBackground(){
-    ctx.drawImage(background_img= new Image(),0,0,canvas.width,canvas.height);
+    ctx.drawImage(background_img,0,0,canvas.width,canvas.height);
 
 }
 function uploadcar1(){
